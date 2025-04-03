@@ -360,6 +360,7 @@ footer {
     position: relative;
     overflow: visible; 
     z-index: 1000;
+    top: 20px;
 }
 
 .product-image img {

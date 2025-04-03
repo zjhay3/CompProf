@@ -1193,7 +1193,7 @@
 
                     <div class="product-card interactive" id="led-32">
                         <div class="product-image">
-                            <img src="images/led-32.png" alt="LED 32 Inches">
+                            <img src="images/items/JA-1.png" alt="LED 32 Inches">
                         </div>
                         <div class="product-info">
                             <h3>LED 32 Inches HDMI Ready with TV Stand/Wall mounted</h3>
@@ -1204,7 +1204,7 @@
 
                     <div class="product-card interactive" id="led-42">
                         <div class="product-image">
-                            <img src="images/led-42.png" alt="LED 42 Inches">
+                            <img src="images/items/JA-2.png" alt="LED 42 Inches">
                         </div>
                         <div class="product-info">
                             <h3>LED 42 Inches HDMI Ready with TV Stand/Wall mounted</h3>
@@ -1215,7 +1215,7 @@
 
                     <div class="product-card interactive" id="led-50">
                         <div class="product-image">
-                            <img src="images/led-50" alt="LED 50 Inches">
+                            <img src="images/items/JA-3.png" alt="LED 50 Inches">
                         </div>
                         <div class="product-info">
                             <h3>LED 50 Inches HDMI Ready with TV Stand/Wall mounted</h3>
@@ -1226,7 +1226,7 @@
 
                     <div class="product-card interactive" id="led-65">
                         <div class="product-image">
-                            <img src="images/led-65" alt="LED 65 Inches">
+                            <img src="images/items/JA-4.png" alt="LED 65 Inches">
                         </div>
                         <div class="product-info">
                             <h3>LED 65 Inches HDMI Ready with TV Stand/Wall mounted</h3>
@@ -1237,7 +1237,7 @@
 
                     <div class="product-card interactive" id="led-75">
                         <div class="product-image">
-                            <img src="images/led-75" alt="LED 75 Inches">
+                            <img src="images/items/JA-5.png" alt="LED 75 Inches">
                         </div>
                         <div class="product-info">
                             <h3>LED 75 Inches HDMI Ready with TV Stand/Wall mounted</h3>
@@ -1248,7 +1248,7 @@
 
                     <div class="product-card interactive" id="led-wall-standard-size1">
                         <div class="product-image">
-                            <img src="images/led-wall-standard.png" alt="LED Wall Standard Size with Basic Sound System">
+                            <img src="images/items/JB-6.png" alt="LED Wall Standard Size with Basic Sound System">
                         </div>
                         <div class="product-info">
                             <h3>LED Wall Standard Size with Basic Sound System</h3>
@@ -1259,7 +1259,7 @@
 
                     <div class="product-card interactive" id="led-wall-standard-size2">
                         <div class="product-image">
-                            <img src="images/led-wall-standard-size.png" alt="LED Wall Standard Size">
+                            <img src="images/items/JB-7.png" alt="LED Wall Standard Size">
                         </div>
                         <div class="product-info">
                             <h3>LED Wall Standard Size</h3>
@@ -1270,7 +1270,7 @@
 
                     <div class="product-card interactive" id="led-wall-other-size">
                         <div class="product-image">
-                            <img src="images/led-wall-other-size.png" alt="LED Wall Other Size">
+                            <img src="images/items/JC-8.png" alt="LED Wall Other Size">
                         </div>
                         <div class="product-info">
                             <h3>LED Wall Other Size</h3>
@@ -1298,7 +1298,7 @@
 
                     <div class="product-card interactive" id="convenience-outlet3">
                         <div class="product-image">
-                            <img src="images/convenience-outlet-3-gang.png" alt="Convenience Outlet 3 gang">
+                            <img src="images/items/KA-1.png" alt="Convenience Outlet 3 gang">
                         </div>
                         <div class="product-info">
                             <h3>Convenience Outlet 3 gang</h3>
@@ -1309,7 +1309,7 @@
 
                     <div class="product-card interactive" id="convenience-outlet2">
                         <div class="product-image">
-                            <img src="images/convenience-outlet-2-gang.png" alt="Convenience Outlet 2 gang">
+                            <img src="images/items/KA-2.png" alt="Convenience Outlet 2 gang">
                         </div>
                         <div class="product-info">
                             <h3>Convenience Outlet 2 gang</h3>
@@ -1320,7 +1320,7 @@
 
                     <div class="product-card interactive" id="convenience-outlet1">
                         <div class="product-image">
-                            <img src="images/convenience-outlet.png" alt="Convenience Outlet ( Universal )">
+                            <img src="images/items/KA-3.png" alt="Convenience Outlet ( Universal )">
                         </div>
                         <div class="product-info">
                             <h3>Convenience Outlet ( Universal )</h3>
@@ -1331,7 +1331,7 @@
 
                     <div class="product-card interactive" id="universal-adaptor">
                         <div class="product-image">
-                            <img src="images/universal-adaptor.png" alt="Universal Adaptor">
+                            <img src="images/items/KB-4.png" alt="Universal Adaptor">
                         </div>
                         <div class="product-info">
                             <h3>Universal Adaptor</h3>
@@ -1359,7 +1359,7 @@
 
                     <div class="product-card interactive" id="breaker-single-phase1">
                         <div class="product-image">
-                            <img src="images/up-to-4.4k.png" alt="Up to 4.4kw w/20 A Switch 1P">
+                            <img src="images/items/LA-1.png" alt="Up to 4.4kw w/20 A Switch 1P">
                         </div>
                         <div class="product-info">
                             <h3>Up to 4.4kw w/20 A Switch 1P</h3>
@@ -1370,7 +1370,7 @@
 
                     <div class="product-card interactive" id="breaker-single-phase2">
                         <div class="product-image">
-                            <img src="images/up-to-6.6k.png" alt="Up to 6.6kw w/30 A Switch 1P">
+                            <img src="images/items/LA-2.png" alt="Up to 6.6kw w/30 A Switch 1P">
                         </div>
                         <div class="product-info">
                             <h3>Up to 6.6kw w/30 A Switch 1P</h3>
@@ -1381,7 +1381,7 @@
 
                     <div class="product-card interactive" id="breaker-single-phase3">
                         <div class="product-image">
-                            <img src="images/up-to-15.4k.png" alt="Up to 15.4kw w/60 A Switch 1P">
+                            <img src="images/items/LA-3.png" alt="Up to 15.4kw w/60 A Switch 1P">
                         </div>
                         <div class="product-info">
                             <h3>Up to 15.4kw w/60 A Switch 1P</h3>
@@ -1392,7 +1392,7 @@
 
                     <div class="product-card interactive" id="breaker-single-phase4">
                         <div class="product-image">
-                            <img src="images/up-to-22k.png" alt="Up to 22kw w/100 A Switch 1P">
+                            <img src="images/items/LA-4.png" alt="Up to 22kw w/100 A Switch 1P">
                         </div>
                         <div class="product-info">
                             <h3>Up to 22kw w/100 A Switch 1P</h3>
@@ -1420,7 +1420,7 @@
 
                     <div class="product-card interactive" id="breaker-three-phase1">
                         <div class="product-image">
-                            <img src="images/30amps.png" alt="30 Amps V 60 Hz Breaker 3P">
+                            <img src="images/items/LB-1.png" alt="30 Amps V 60 Hz Breaker 3P">
                         </div>
                         <div class="product-info">
                             <h3>30 Amps V 60 Hz Breaker 3P</h3>
@@ -1431,7 +1431,7 @@
 
                     <div class="product-card interactive" id="breaker-three-phase2">
                         <div class="product-image">
-                            <img src="images/60amps.png" alt="60 Amps V 60 Hz Breaker 3P">
+                            <img src="images/items/LB-2.png" alt="60 Amps V 60 Hz Breaker 3P">
                         </div>
                         <div class="product-info">
                             <h3>60 Amps V 60 Hz Breaker 3P</h3>
@@ -1442,7 +1442,7 @@
 
                     <div class="product-card interactive" id="breaker-three-phase3">
                         <div class="product-image">
-                            <img src="images/100amps.png" alt="100 Amps V 60 Hz Breaker 3P">
+                            <img src="images/items/LB-3.png" alt="100 Amps V 60 Hz Breaker 3P">
                         </div>
 
                         <div class="product-info">
@@ -1471,7 +1471,7 @@
 
                     <div class="product-card interactive" id="step-down-single">
                         <div class="product-image">
-                            <img src="images/step-down-single-phase.png" alt="Step-down Transformer">
+                            <img src="images/items/MA-1.png" alt="Step-down Transformer">
                         </div>
                         <div class="product-info">
                             <h3>Step-down Transformer ( Single Phase )</h3>
@@ -1482,7 +1482,7 @@
 
                     <div class="product-card interactive" id="step-down-three">
                         <div class="product-image">
-                            <img src="images/step-down-three-phase.png" alt="Step-down Transformer">
+                            <img src="images/items/MA-2.png" alt="Step-down Transformer">
                         </div>
                         <div class="product-info">
                             <h3>Step-down Transformer ( Three Phase )</h3>
@@ -1493,7 +1493,7 @@
 
                     <div class="product-card interactive" id="step-up-single">
                         <div class="product-image">
-                            <img src="images/step-up-single-phase.png" alt="Step-Up Transformer">
+                            <img src="images/items/MB-3.png" alt="Step-Up Transformer">
                         </div>
                         <div class="product-info">
                             <h3>Step-Up Transformer ( Single Phase )</h3>
@@ -1504,7 +1504,7 @@
 
                     <div class="product-card interactive" id="step-up-three">
                         <div class="product-image">
-                            <img src="images/step-up-three-phase.png" alt="Step-Up Transformer">
+                            <img src="images/items/MB-4.png" alt="Step-Up Transformer">
                         </div>
                         <div class="product-info">
                             <h3>Step-Up Transformer ( Three Phase )</h3>
@@ -1515,7 +1515,7 @@
 
                     <div class="product-card interactive" id="genset">
                         <div class="product-image">
-                            <img src="images/genset.png" alt="Genset">
+                            <img src="images/items/MC-5.png" alt="Genset">
                         </div>
                         <div class="product-info">
                             <h3>Genset</h3>
@@ -1543,7 +1543,7 @@
 
                     <div class="product-card interactive" id="flourescent-lamp-40">
                         <div class="product-image">
-                            <img src="images/flourescent-lamp-40.png" alt="Flourescent Lamp(40 watts)">
+                            <img src="images/items/NA-1.png" alt="Flourescent Lamp(40 watts)">
                         </div>
                         <div class="product-info">
                             <h3>Flourescent Lamp(40 watts)</h3>
@@ -1554,7 +1554,7 @@
 
                     <div class="product-card interactive" id="led-flourescent-day-light">
                         <div class="product-image">
-                            <img src="images/led-flourescent.png" alt="LED Flourescent (Day Light)">
+                            <img src="images/items/NA-2.png" alt="LED Flourescent (Day Light)">
                         </div>
                         <div class="product-info">
                             <h3>LED Flourescent (Day Light)</h3>
@@ -1565,7 +1565,7 @@
 
                     <div class="product-card interactive" id="led-pin-light1">
                         <div class="product-image">
-                            <img src="images/led-pinlight-5-watts.png" alt="LED Pinlight( 5 watts )">
+                            <img src="images/items/NB-3.png" alt="LED Pinlight( 5 watts )">
                         </div>
                         <div class="product-info">
                             <h3>LED Pinlight( 5 watts )</h3>
@@ -1576,7 +1576,7 @@
 
                     <div class="product-card interactive" id="led-pin-light2">
                         <div class="product-image">
-                            <img src="images/led-pinlight-15-watts.png" alt="LED Pinlight( 15 watts )">
+                            <img src="images/items/NB-4.png" alt="LED Pinlight( 15 watts )">
                         </div>
                         <div class="product-info">
                             <h3>LED Pinlight( 15 watts )</h3>
@@ -1587,7 +1587,7 @@
 
                     <div class="product-card interactive" id="long-arm-spotlight">
                         <div class="product-image">
-                            <img src="images/long-arm-spotlight.png" alt="Long Arm Spotlight">
+                            <img src="images/items/NC-5.png" alt="Long Arm Spotlight">
                         </div>
                         <div class="product-info">
                             <h3>Long Arm Spotlight</h3>
@@ -1598,7 +1598,7 @@
 
                     <div class="product-card interactive" id="short-arm-spotlight">
                         <div class="product-image">
-                            <img src="images/short-arm-spotlight.png" alt="Short Arm Spotlight">
+                            <img src="images/items/NC-6.png" alt="Short Arm Spotlight">
                         </div>
                         <div class="product-info">
                             <h3>Short Arm Spotlight</h3>
@@ -1609,7 +1609,7 @@
 
                     <div class="product-card interactive" id="track-bar-track-light">
                         <div class="product-image">
-                            <img src="images/track-bar.png" alt="Track Bar with 3 Track Light">
+                            <img src="images/items/ND-7.png" alt="Track Bar with 3 Track Light">
                         </div>
                         <div class="product-info">
                             <h3>Track Bar with 3 Track Light</h3>
@@ -1620,7 +1620,7 @@
 
                     <div class="product-card interactive" id="halogen-pinlight">
                         <div class="product-image">
-                            <img src="images/halogen-pinlight.png" alt="Halogen Pinlight">
+                            <img src="images/items/NE-8.png" alt="Halogen Pinlight">
                         </div>
                         <div class="product-info">
                             <h3>Halogen Pinlight</h3>
@@ -1631,7 +1631,7 @@
 
                     <div class="product-card interactive" id="floodlight1">
                         <div class="product-image">
-                            <img src="images/floodlight-150.png" alt="Floodlight 150 watts">
+                            <img src="images/items/NF-11.png" alt="Floodlight 150 watts">
                         </div>
                         <div class="product-info">
                             <h3>Floodlight 150 watts</h3>
@@ -1642,7 +1642,7 @@
 
                     <div class="product-card interactive" id="floodlight2">
                         <div class="product-image">
-                            <img src="images/floodlight-300.png" alt="Floodlight 300 watts">
+                            <img src="images/items/NF-13.png" alt="Floodlight 300 watts">
                         </div>
                         <div class="product-info">
                             <h3>Floodlight 300 watts</h3>
@@ -1653,7 +1653,7 @@
 
                     <div class="product-card interactive" id="metal-halide1">
                         <div class="product-image">
-                            <img src="images/metal-halide-150.png" alt="Metal Halide 150 watts">
+                            <img src="images/items/NG-14.png" alt="Metal Halide 150 watts">
                         </div>
                         <div class="product-info">
                             <h3>Metal Halide 150 watts</h3>
@@ -1664,7 +1664,7 @@
 
                     <div class="product-card interactive" id="metal-halide2">
                         <div class="product-image">
-                            <img src="images/metal-halide-400.png" alt="Metal Halide 400 watts">
+                            <img src="images/items/NG-15.png" alt="Metal Halide 400 watts">
                         </div>
                         <div class="product-info">
                             <h3>Metal Halide 400 watts</h3>
@@ -1738,6 +1738,7 @@
                 <li><a href="index.php#about">About Us</a></li>
                 <li><a href="more-product.php">Products</a></li>
                 <li><a href="index.php#services">Services</a></li>
+
             </ul>
         </div>
     </div>

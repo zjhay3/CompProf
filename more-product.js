@@ -280,8 +280,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 { name: "Wall Mounted Brochure Pocket 1( 2 cases )", category: "display", id: "wall-mounted-brochure-pocket2" },
                 { name: "Wooded Brochure Standee 1( 3 pockets )", category: "display", id: "wooded-brochure-standee-1" },
                 { name: "Acrylic Folded Brochure Standee 1 ( 4 pockets )", category: "display", id: "acrylic-folded-brochure-standee" },
-                { name: "Universal TV Stand", category: "display", id: "univeral-tv-stand" },
-                { name: "Universal TV Bracket", category: "display", id: "univeral-tv-bracket" },
+                { name: "Universal TV Stand", category: "display", id: "universal-tv-stand" },
+                { name: "Universal TV Bracket", category: "display", id: "universal-tv-bracket" },
                 { name: "System Vertical Photo Panel ( 1m x 2.5m (h))", category: "display", id: "system-vertical-photo-panel1" },
                 { name: "System Vertical Photo Panel with one spotlight", category: "display", id: "system-vertical-photo-panel2" },
         //PROPS AND AIDS
