@@ -224,7 +224,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 { name: "White Special Chair(Nordic Chair with Cushion", category: "chairs", id: "white-special-chair-nordic" },
                 { name: "Black Special Chair(Chopstick with Cushion)", category: "chairs", id: "white-special-chair-chopstick-cushion" },
                 { name: "White Special Chair(Chopstick with Cushion)", category: "chairs", id: "white-special-chair-chopstick-cushion" },
-                { name: "Black Special Chair(Chopstick Chair)", category: "chairs", id: "white-special-chair-chopstick" },
+                { name: "Black Special Chair(Chopstick Chair)", category: "chairs", id: "black-special-chair-chopstick" },
                 { name: "White Special Chair(Chopstick Chair)", category: "chairs", id: "white-special-chair-chopstick" },
                 { name: "Black Barstool Leatherette", category: "chairs", id: "black-barstool" },
                 { name: "Black Hydraulic Chairs Low Backrest", category: "chairs", id: "black-hydraulic-chair" },
@@ -265,8 +265,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 { name: "Sofa 1 seater Black Leatherette", category: "sofa-single", id: "sofa-1-seater-black" },
                 { name: "Sofa 3 seater White Leatherette", category: "sofa-single", id: "sofa-3-seater-white" },
                 { name: "Sofa 1 seater White Leatherette", category: "sofa-single", id: "sofa-1-seater-white" },
-                { name: "Sofa 2 seater Black Leatherette", category: "sofa-single", id: "sofa-1-seater-black" },
-                { name: "Sofa 2 seater White Leatherette", category: "sofa-single", id: "sofa-1-seater-white" },
+                { name: "Sofa 2 seater Black Leatherette", category: "sofa-single", id: "sofa-2-seater-black" },
+                { name: "Sofa 2 seater White Leatherette", category: "sofa-single", id: "sofa-2-seater-white" },
                 { name: "Sofa 2 seater Dark Gray Fabric", category: "sofa-single", id: "sofa-2-seater-dark-gray" },
                 { name: "Ottoman", category: "sofa-single", id: "ottoman" },
         // SHOWCASE
@@ -326,7 +326,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 { name: "LED Wall Other Size", category: "tv-and-audio-visual", id: "led-wall-other-size" },
         // OUTLET AND ADAPTOR
                 { name: "Convenience Outlet 3 gang", category: "outlet-and-adaptor", id: "convenience-outlet3" },
-                { name: "Convenience Outlet 3 gang", category: "outlet-and-adaptor", id: "convenience-outlet2" },
+                { name: "Convenience Outlet 2 gang", category: "outlet-and-adaptor", id: "convenience-outlet2" },
                 { name: "Convenience Outlet ( Universal )", category: "outlet-and-adaptor", id: "convenience-outlet1" },
                 { name: "Universal Adaptor", category: "outlet-and-adaptor", id: "universal-adaptor" },
         // BREAKER SINGLE PHASE
