@@ -349,7 +349,7 @@ document.addEventListener("DOMContentLoaded", function() {
     
     if (backButton) {
         backButton.addEventListener("click", function () {
-            window.location.href = "index.html";
+            window.location.href = "index.php";
         });
     } else {
         console.warn("Back button not found in the document");
